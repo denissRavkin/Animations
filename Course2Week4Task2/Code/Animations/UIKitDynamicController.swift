@@ -11,5 +11,22 @@ class UIKitDynamicController: UIViewController {
     
     @IBOutlet weak var anchorView: UIView!
     @IBOutlet weak var animationView: UIView!
+    var dynamicAnimator: UIDynamicAnimator!
+    var anchorPoint: CGPoint!
+    var attachment: UIAttachmentBehavior!
     
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        anchorPoint = anchorView.center
+        dynamicAnimator = UIDynamicAnimator(referenceView: view)
+        let gravity = UIGravityBehavior(items: [animationView])
+        attachment = UIAttachmentBehavior(item: animationView, attachedToAnchor: anchorPoint)
+        dynamicAnimator.addBehavior(attachment)
+        dynamicAnimator.addBehavior(gravity)
+    }
+    
+    @IBAction func handle(_ sender: UIPanGestureRecognizer) {
+        anchorView.center = sender.location(in: view)
+        attachment.anchorPoint = anchorView.center
+    }
 }

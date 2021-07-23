@@ -18,6 +18,83 @@
             endingLineNumber = "41"
             landmarkName = "handle(_:)"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C12AC4B8-9E4B-43CE-9F8A-5AF4F6A65CBF - 52bb29ab030bff9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Course2Week4Task2.CABasicAnimationController.handle(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "Course2Week4Task2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anymacstore/Downloads/Course2Week4Task2/Course2Week4Task2/Code/Animations/CABasicAnimationController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "363">
+               </Location>
+               <Location
+                  uuid = "C12AC4B8-9E4B-43CE-9F8A-5AF4F6A65CBF - 52bb29ab030bff9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Course2Week4Task2.CABasicAnimationController.handle(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "Course2Week4Task2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anymacstore/Downloads/Course2Week4Task2/Course2Week4Task2/Code/Animations/CABasicAnimationController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "577">
+               </Location>
+               <Location
+                  uuid = "C12AC4B8-9E4B-43CE-9F8A-5AF4F6A65CBF - 52bb29ab030bff9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Course2Week4Task2.CABasicAnimationController.handle(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "Course2Week4Task2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anymacstore/Downloads/Course2Week4Task2/Course2Week4Task2/Code/Animations/CABasicAnimationController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "3072">
+               </Location>
+               <Location
+                  uuid = "C12AC4B8-9E4B-43CE-9F8A-5AF4F6A65CBF - 52bb29ab030bff9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Course2Week4Task2.CABasicAnimationController.handle(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "Course2Week4Task2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anymacstore/Downloads/Course2Week4Task2/Course2Week4Task2/Code/Animations/CABasicAnimationController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "4674">
+               </Location>
+               <Location
+                  uuid = "C12AC4B8-9E4B-43CE-9F8A-5AF4F6A65CBF - 52bb29ab030bff9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Course2Week4Task2.CABasicAnimationController.handle(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "Course2Week4Task2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anymacstore/Downloads/Course2Week4Task2/Course2Week4Task2/Code/Animations/CABasicAnimationController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "8457">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -34,6 +111,54 @@
             endingLineNumber = "14"
             landmarkName = "orangeView"
             landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D166D0F-20B6-43E6-973D-75D0CA531DE1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Course2Week4Task2/Code/Animations/CATransitionController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "animationDidStop(_:finished:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5EAD48B0-7F66-4D23-9E38-A98F2240968A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Course2Week4Task2/Code/Animations/CATransitionController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "animationDidStop(_:finished:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE6A3F0C-B6B4-4445-B245-A521FC8F739F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Course2Week4Task2/Code/Animations/UIViewAnimationController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "flipButtonTapHandler(sender:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
